@@ -1,0 +1,40 @@
+Welcome to the Online Auction System
+------------------------------------
+
+Item: Gaming Laptop (ID: ITM001)
+Base Price: ₹50000.0
+Current Highest Bid: ₹50000.0
+End Time: 2026-06-12T...
+
+1. Place a Bid
+2. Check Result & Exit
+Choose option: 1
+Enter your Name: Rahul
+Enter your Bid Amount: ₹55000
+SUCCESS: Bid placed successfully!
+
+Item: Gaming Laptop (ID: ITM001)
+Base Price: ₹50000.0
+Current Highest Bid: ₹55000.0
+End Time: 2026-06-12T...
+
+1. Place a Bid
+2. Check Result & Exit
+Choose option: 1
+Enter your Name: Priya
+Enter your Bid Amount: ₹60000
+SUCCESS: Bid placed successfully!
+
+Item: Gaming Laptop (ID: ITM001)
+Base Price: ₹50000.0
+Current Highest Bid: ₹60000.0
+End Time: 2026-06-12T...
+
+1. Place a Bid
+2. Check Result & Exit
+Choose option: 2
+
+--- Auction Result for Gaming Laptop ---
+Winner: Priya
+Final Price: ₹60000.0
+System Shutdown. Thank you!
